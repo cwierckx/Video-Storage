@@ -23,7 +23,7 @@ struct ContentView: View {
             }
             else{
                 
-                Text("Invalid URL")
+                Text("Invalid URL!")
                 
             }
             
